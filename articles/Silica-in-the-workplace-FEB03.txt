@@ -1,0 +1,143 @@
+The following article is comprised of exerpts from the IAPA's document 'SILICA IN THE WORKPLACE' and may not be reproduced in any form without permission. Sections not relevant to potters and ceramic artists have been removed from the original document. The article is indicative of the health hazards os silica in the studio, however does not constitute a definitve MSDS on the dangers of silca and other clay dusts. For more information on the dangers od Silica in the workplace, pleae refer to the IASA's original document at ...
+© INDUSTRIAL ACCIDENT PREVENTION ASSOCIATION, Toronto, Canada, 2003. All rights reserved. Highlighting and italics by the editor.
+
+
+What is Silica? 
+
+Silica is the name of a group of minerals that contain silicon and oxygen in chemical combination and 
+have the general formula Si02. Silica may be free, in which case only Si02 is present, or combined, in 
+which the Si02 is combined chemically to some other atom or molecule. This difference is important to 
+recognize, since the silica problem exists only with free silica. Labels on packages and product analysis 
+sheets must be read carefully for this reason. Free silica may occur as amorphous free silica, of which 
+there are many forms, and crystalline free silica, of which there are five principal forms. Certain materials 
+contain both amorphous and crystalline free silica. Silica-related diseases are associated only with 
+crystalline free silica. The most common examples of crystalline free silica are beach or bank sands. A 
+third form of free silica is fused silica, which is produced by heating either the amorphous or crystalline 
+forms (i.e. any dust from fired work! ed.). Heating amorphous silica causes conversion to the crystalline form under appropriate conditions. 
+Dusts containing more than 1% crystalline free silica by weight are considered to pose a potential 
+exposure hazard. 
+  
+
+Some Sources of Exposure to Crystalline Free Silica 
+
+  hardrock mining 
+  granite quarrying 
+  aggregate quarrying 
+  quarrying of semi-precious stones 
+  ferrous and nonferrous metal casting 
+  pottery manufacturing 
+  porcelain manufacturing 
+  enamelware manufacturing 
+  abrasive products manufacturing 
+  polishing semi-precious stones 
+  asbestos-cement products manufacturing 
+  abrasive blasting and grinding 
+  refractory products manufacturing and 
+utilization 
+  cement products manufacturing 
+
+ 
+What Are The Effects Of Exposure To Respirable Crystalline Silica?
+
+Exposure to silica can cause silicosis which is, in fact, the most significant lung disease caused by 
+breathing mineral dusts. Development of silicosis is influenced by several factors, which include: 
+  amount and kind of dust inhaled 
+  content of crystalline free silica in the dust 
+  form of the silica 
+  relative size of the inhaled particles 
+  length of exposure 
+  individual resistance 
+  smoking habits 
+  disease status 
+  age of worker 
+
+Silicosis is the result of the body's response to the presence of silica dust in the lung. The respirable 
+fraction of the dust, particles generally considered to be smaller than 5µm (millionth of a metre), can 
+penetrate to the innermost reaches of the respiratory tract. These are the alveoli or air sacs where 
+exchange of oxygen and carbon dioxide occurs. Dust particles, which land on these surfaces, are 
+removed by white blood cells known as macrophages. Particles of free crystalline silica cause the 
+macrophages to break open. The result is the formation of a scar like patch on the surface of the 
+alveolus. Formation of large numbers of "scars" following prolonged exposure causes the alveolar surface 
+to become less elastic. This reduces the transfer of gases. This is noticed as shortness of breath 
+following exertion. Symptoms seldom develop in less than five years and in many cases may take more 
+than 20 years to become disabling. 
+
+Doctors consider silicosis to develop in three stages. In the first stage, no disability occurs. However, the 
+disease is detectable on chest X-ray plates as shadows. During the second stage, laboured breathing 
+may occur during heavy exercise or a dry cough may be present. Breathing usually becomes severely 
+impaired during the third stage. As a result, the heart may enlarge to compensate. The victim becomes 
+susceptible to other lung diseases such as tuberculosis.
+
+How Can Exposure to Crystalline Free Silica be Controlled? 
+
+Silicosis is a preventable occupational disease. 
+
+Process selection and layout can significantly affect the production of silica-containing dusts. 
+Attention to the mechanics of silica handling can lead to the selection of processes least likely to 
+generate dust, and of workplace layouts which minimize the spread of dust. These considerations are 
+best addressed during the design stages. 
+ 
+The most common modification of existing processes is isolation. Sources of silica dust can 
+sometimes be isolated from workplace air by enclosing the equipment or by separating it from 
+workers by barriers or walls. Sometimes special booths may be used to isolate the worker from the 
+source of silica dust. 
+
+Ventilation of the workplace is essential to maintaining acceptable conditions of exposure. Workplace 
+ventilation may be provided in two ways: natural or mechanical ventilation. 
+Natural ventilation relies on the principle that heated air expands and rises. Natural airflow in a 
+building can be obtained by providing openings at floor level and roof level. This type of ventilation is 
+most effective when the openings are as far apart vertically as possible and the inlet and outlet areas 
+are equal.
+ 
+Mechanical ventilation is provided by fans. This may be required when natural ventilation is 
+inadequate. Exhaust fans located at roof level may supplement natural ventilation in controlling dust 
+generated by process emissions. 
+
+Potters and ceramic artists should ensure that they wear a good face mask equipped with dust filters whenever they are handling raw materials, e.g. when mixing clays or glazes or in any other situation where dust may be created in the studio 9e.g. when fettling). (ed.)
+ 
+
+All areas of the plant (or studio, ed.) should be kept clean and free from settled dust. This is a difficult task in 
+situations in which dusty materials are being handled continually. Settled dust contains material, 
+which given appropriate conditions such as vibration or other mechanical disturbance, can become 
+airborne. 
+
+Procedures for removing settled dust must be reviewed carefully to ensure that they do not contribute 
+Vacuum cleaning equipment should be fitted with HEPA (High Efficiency Particulate Air) filters to 
+ensure that respirable particles are not blown into the workplace air through the exhaust of the 
+vacuum system.
+ 
+Housekeeping procedures should be scheduled for both routine and non-routine occurrences. Spilled 
+material likely to contain crystalline free silica should be collected promptly and the cause 
+investigated. A central vacuum system is ideal for this purpose. 
+Wet sweeping should be undertaken only if water is compatible with other materials likely to be 
+to the dust problem. In general, the following practices are recommended: 
+  vacuum cleaning 
+  wet sweeping (if compatible with other constituents in the dust) 
+  no dry sweeping 
+  no air blowing 
+present in the area. 
+
+Dust-laden clothing is likely to be a source of continuing exposure following motions which cause the 
+dust to become resuspended. Loose dust can be easily removed from clothing or skin by use of a 
+vacuum cleaning system. The use of compressed air to blow dust from skin or clothing must be 
+prohibited. A policy regarding removal of work clothing from the workplace must be considered in light 
+of the potential presence of other toxic materials in the dust. 
+
+Skin contamination by dusts containing crystalline free silica is not considered to pose a serious route 
+of exposure. Washing facilities must be provided and used in consideration of other toxic materials 
+which may be present in dusts which contaminate the skin. Employees should be encouraged to 
+wash their hands and arms before eating, drinking, smoking or leaving the workplace. In some cases, 
+employees may be required to shower before leaving the workplace. 
+ 
+Consumption of food and beverages and smoking in the working area should be prohibited. The 
+severity of response to exposure to crystalline free silica is affected by smoking. While ingestion is not 
+considered a credible route of exposure, ingestion may be an important consideration in exposure to 
+other toxic agents, which may be present in the dust. Eating, drinking or smoking when one is 
+exposed to toxic materials can provide an important route of exposure. 
+Specially designated eating and drinking areas, remote from the workplace, should be provided. 
+Smoking, if permitted in the workplace, must be allowed only in the designated smoking areas 
+established in accordance with the Smoking in the Workplace Act. 
+
+Particulate materials possibly containing silica adhere to both clothing and exposed skin as a result of 
+daily activities. While inhalation is the only plausible route of exposure to crystalline free silica, dust 
+adhering to clothing can cause exposure due to resuspension.
